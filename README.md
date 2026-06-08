@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Computer Science Student | AI/ML Enthusiast | Full-Stack Developer<br>🧠 Passionate about building intelligent and impactful solutions<br>💻 Developing real-world projects with AI, Web Technologies & Data<br>🤝 Open to internships, collaborations, and learning opportunities<br>⚡ Learning, building, and growing every day
+🚀 I am Saragadam Rakshita, a Computer Science Student | AI/ML Enthusiast | Full-Stack Developer<br>🧠 Passionate about building intelligent and impactful solutions<br>💻 Developing real-world projects with AI, Web Technologies & Data<br>🤝 Open to internships, collaborations, and learning opportunities<br>⚡ Learning, building, and growing every day
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saragadam_rakshita_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saragadam-rakshita) 
 
