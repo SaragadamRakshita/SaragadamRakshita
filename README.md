@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- AI-powered Career Mentor Platform<br>- Edge AI Solutions for Public Safety<br>- Smart Monitoring Systems using AI, IoT & Computer Vision<br>- Full-Stack Web Applications with React, Node.js & Firebase<br><br><br>🌱 I’m currently learning<br>- Deep Learning & Computer Vision<br>- Cloud Technologies<br>- Advanced Data Structures & Algorithms<br>- System Design<br><br>⚡ Fun fact<br>- I enjoy combining AI, design, and software engineering to solve real-world problems—from drowning prevention systems to noise pollution heatmaps and smart classroom platforms.
-
+🚀 Computer Science Student | AI/ML Enthusiast | Full-Stack Developer<br>🧠 Passionate about building intelligent and impactful solutions<br>💻 Developing real-world projects with AI, Web Technologies & Data<br>🤝 Open to internships, collaborations, and learning opportunities<br>⚡ Learning, building, and growing every day
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saragadam_rakshita_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saragadam-rakshita) 
 
